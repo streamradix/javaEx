@@ -1,0 +1,17 @@
+# Common
+*
+!*/
+!.gitignore
+!.gitattributes
+!README.md
+
+# Java
+!*.java
+
+# Gradle
+!gradle-wrapper.properties
+!gradle-wrapper.jar
+!gradlew.bat
+!gradlew
+!settings.gradle
+!build.gradle
