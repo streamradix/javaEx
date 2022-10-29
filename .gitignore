@@ -15,3 +15,8 @@
 !gradlew
 !settings.gradle
 !build.gradle
+
+# Spring
+!HELP.md
+!application.yml
+!application.properties
